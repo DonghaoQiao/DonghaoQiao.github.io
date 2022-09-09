@@ -12,6 +12,6 @@ I am a Ph.D. candidate at [BAM Lab](https://research.cs.queensu.ca/home/farhana/
 
 My Ph.D. research is enhancing perception of Autonomous Vehicles
   1. 2D/3D object detection
-  1. traffic scene understanding with segmentation
   1. cooperative perception
+  1. traffic scene understanding with segmentation
 
