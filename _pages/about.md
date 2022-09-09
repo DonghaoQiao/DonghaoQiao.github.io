@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [Big-Data Analytics and Management Laboratory (BAM Lab)](https://research.cs.queensu.ca/home/farhana/bam-lab/), Computer science, Queen's University, Canada. My research interests include machine learning, deep learning and computer vision. My Ph.D. research is enhancing perception of Autonomous Vehicles such as 2D/3D object detection and traffic scene understanding with segmentation.
+I am a Ph.D. candidate at [Big-Data Analytics and Management Laboratory (BAM Lab)](https://research.cs.queensu.ca/home/farhana/bam-lab/), Computer science, Queen's University, Canada. My research interests include machine learning, deep learning and computer vision. My Ph.D. research is enhancing perception of Autonomous Vehicles such as 2D/3D object detection, traffic scene understanding with segmentation, and cooperative perception.
